@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning **Data Science** and **Computer Vision**.
 - 💬 Ask me about Data Preprossesing, Machine Learning, Python, or anything tech-related!
 - 📫 How to reach me: **biswadeepmazumder29@gmail.com**
-- ⚡ Fun fact: I love exploring meaning out of raw-data and building cool projects.
+- ⚡ Fun fact: I enjoy turning raw data into meaningful insights and building impactful projects
 
 [![An image of @biswadeep29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/biswadeep29)](https://www.holopin.io/@biswadeep29#)
   
