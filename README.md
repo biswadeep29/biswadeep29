@@ -1,5 +1,5 @@
 <p align="center">
-    <img style="width: 100%;  height: 400px; object-fit: cover;" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Centered Image">
+    <img style="width: 100%;  height: 400px; object-fit: cover;" src="lofi.gif" alt="Centered Image">
 </p>
 
 # Hi there, I'm Biswadeep! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Waving hand">
@@ -24,8 +24,6 @@
 - 💬 Ask me about Data Preprossesing, Machine Learning, Python, or anything tech-related!
 - 📫 How to reach me: **biswadeepmazumder29@gmail.com**
 - ⚡ Fun fact: I enjoy turning raw data into meaningful insights and building impactful projects
-
-[![An image of @biswadeep29's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/biswadeep29)](https://www.holopin.io/@biswadeep29#)
   
 ## 🤝 Connect with Me
 
